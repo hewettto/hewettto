@@ -42,3 +42,11 @@ I'm **Murodjon**, a cybersecurity student and software developer from Uzbekistan
 <div align="center">
   <b>Explore. Develop. Secure.</b>
 </div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/hewettto/hewettto/output/snake.svg" alt="Contribution Snake"/>
+</div>

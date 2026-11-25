@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080f1b,100:1d4ed8&height=200&section=header&text=HEWETTTO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%26%20Software%20Development&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1d4ed8&height=200&section=header&text=HEWETTTO&fontSize=55&fontColor=ffffff&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Python+Developer;Full+Stack+Development;Linux+%26+Network+Security;Explore.+Develop.+Secure."/>
 
